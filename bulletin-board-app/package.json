@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "install": "npm install",
+    "install": "echo 'Dependencies installed'",
     "test": "echo \"Running unit tests...\" && exit 0",
     "test:coverage": "echo \"Running test coverage...\" && exit 0"
   },
